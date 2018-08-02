@@ -97,7 +97,7 @@ $db['localdb'] = array(
 
 $db['onpremisedb'] = array(
 	'dsn'	=> '',
-	'hostname' => '',
+	'hostname' => '172.16.0.3',
 	'username' => 'root',
 	'password' => '12345678',
 	'database' => 'gira2db',
